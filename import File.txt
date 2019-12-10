@@ -1,0 +1,4 @@
+Tải các đường dẫn luồng sử lí mạng, coppy và bỏ vào trang wed:
+--> httpsgithub.comOlafenwaMosesImageAIreleasesdownload1.0yolo.h5
+--> https://github.com/OlafenwaMoses/ImageAI/releases/download/essential-v4/hololens-ex-60--loss-2.76.h5
+--> https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5
